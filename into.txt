@@ -5,3 +5,4 @@ I am from IIIT Nagpur.
 I like to do AI ML.
 Work hard.
 
+Recently i learned about CLIP model.
