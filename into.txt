@@ -5,16 +5,4 @@ I am from IIIT Nagpur.
 I like to do AI ML.
 Work hard.
 
-Recently i learned about CLIP model.
-
-
-I am ATG.
-I am the richest.
-CLIP is VLM.
-
-
-
-
-
-
-
+Recently i learned about BLIP model.
