@@ -2,7 +2,8 @@ My name is Atharva.
 
 Roll number->BT24CSH047.
 I am from IIIT Nagpur.
-I like to do AI ML.
+I like to do deep learning.
 Work hard.
+
 
 Recently i learned about BLIP model.
